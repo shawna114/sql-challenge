@@ -2,7 +2,7 @@
 
 ## Background
 
-This challenge was to create a functional database from six CSV files in POSTGRESQL, demonstrating both data engineering and analyst SQL skills. In the planning phase, I designed a schema diagram which illustrated tables, data types, relationships, primary keys, foreign keys and other constraints. I then created a database and tables using the schema diagram as my guide. The CSVs were then imported into the POSTGRESQL database, allowing me to easily analyze the large datasets and gain valuable insights.
+This challenge was to create a functional database in POSTGRESQL with six CSV files, demonstrating both data engineering and analyst SQL skills. In the planning phase, I designed a schema diagram which illustrated tables, data types, relationships, primary keys, foreign keys and other constraints. I then created a database and tables using the schema diagram as my guide. The CSVs were then imported into the POSTGRESQL database, allowing me to easily analyze the large datasets and gain valuable insights.
 
 ## Analysis
 
@@ -28,8 +28,8 @@ I was tasked to create SQL queries to pull and analyze data from my new database
 
 To demonstrate my skills as a data engineer and analyst, I submitted the following deliverables to show my work:
 
-*  Create an image file of your ERD.  (https://www.google.com "Google's Homepage")
+* [ERD Image File](https://github.com/shawna114/sql-challenge/blob/main/EmployeeSQL/ERD.png?raw=true "ERD Image")
 
-*  Create a .sql file of your table schemata.
+* [SQL Table Schema](https://github.com/shawna114/sql-challenge/blob/main/EmployeeSQL/Schema.sql "Table Schema")
 
-*  Create a .sql file of your queries.
+* [SQL Queries](https://github.com/shawna114/sql-challenge/blob/main/EmployeeSQL/Queries.sql "SQL Queries")
