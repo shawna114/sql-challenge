@@ -2,7 +2,7 @@
 
 ## Background
 
-This challenge was to create a functional database in POSTGRESQL with six CSV files, demonstrating both data engineering and analyst SQL skills. In the planning phase, I designed a schema diagram which illustrated tables, data types, relationships, primary keys, foreign keys and other constraints. I then created a database and tables using the schema diagram as my guide. The CSVs were then imported into the POSTGRESQL database, allowing me to easily analyze the large datasets and gain valuable insights.
+The challenge was to create a functional database in POSTGRESQL with six CSV files, demonstrating both data engineering and analyst SQL skills. In the planning phase, I designed a schema diagram which illustrated table content, data types, relationships, primary keys, foreign keys and other constraints. I then created a database and tables using the schema diagram as my guide. The CSVs were then imported into the POSTGRESQL database, allowing me to easily analyze the large datasets and gain valuable insights.
 
 ## Analysis
 
