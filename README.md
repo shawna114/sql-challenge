@@ -28,7 +28,7 @@ I was tasked to create SQL queries to pull and analyze data from my new database
 
 To demonstrate my skills as a data engineer and analyst, I submitted the following deliverables to show my work:
 
-*  Create an image file of your ERD.
+*  Create an image file of your ERD.  (https://www.google.com "Google's Homepage")
 
 *  Create a .sql file of your table schemata.
 
